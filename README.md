@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Instagram Clone" src="frontend/assets/images/logo.svg" />
+    <img alt="Instagram Clone" src="frontend/src/assets/images/logo.svg" />
     <br>
     A clone Instagram feed.<br />
     Node.js | ReactJS | React Native
