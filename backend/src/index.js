@@ -8,17 +8,17 @@ const app = express();
 const server = require('http').Server(app);
 const io = require('socket.io')(server);
 
-mongoose.connect('mongodb+srv://instarocket:instarocket@cluster0-m7g7o.mongodb.net/instarocket?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://instagram:instagram@cluster0-m7g7o.mongodb.net/instarocket?retryWrites=true&w=majority', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
+
+app.use(cors());
 
 app.use((req, res, next) => {
   req.io = io;
   next();
 });
-
-app.use(cors());
 
 app.use('/files', express.static(path.resolve(__dirname, '..', 'uploads', 'risezed')));
 
