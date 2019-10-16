@@ -20,7 +20,7 @@ app.use((req, res, next) => {
   next();
 });
 
-app.use('/files', express.static(path.resolve(__dirname, '..', 'uploads', 'risezed')));
+app.use('/files', express.static(path.resolve(__dirname, '..', 'uploads', 'resized')));
 
 app.use(require('./routes'));
 
