@@ -1,4 +1,6 @@
 <h1 align="center">
+    <img alt="Instagram Mobile" src="layoutMobile.PNG" />
+    <img alt="Instagram Web" src="layoutWeb.PNG"/>
     <img alt="Instagram" src="frontend/src/assets/images/logo.svg" />
     <br>
     A clone Instagram feed.<br />
@@ -11,8 +13,7 @@
   <a href="#information_source-how-to-use">How To Use</a>
 </p>
 
-<img alt="Instagram Mobile" src="layoutMobile.PNG" />
-<img alt="Instagram Web" src="layoutWeb.PNG"/>
+
 
 ## :rocket: Technologies
 
