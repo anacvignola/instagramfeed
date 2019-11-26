@@ -99,8 +99,8 @@ $ react-native run-android
 ## :camera: Screen prints
 
 <h2 align="center">
-    <img alt="Instagram Mobile" src="layoutMobile.PNG" />
-    <img alt="Instagram Web" src="layoutWeb.PNG" />
+    <img alt="Instagram Mobile" src="/images/layoutMobile.PNG" />
+    <img alt="Instagram Web" src="/images/layoutWeb.PNG" />
 </h2>
 
 [nodejs]: https://nodejs.org/
