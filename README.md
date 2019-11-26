@@ -1,6 +1,4 @@
 <h1 align="center">
-    <img alt="Instagram Mobile" src="layoutMobile.PNG" />
-    <img alt="Instagram Web" src="layoutWeb.PNG"/>
     <img alt="Instagram" src="frontend/src/assets/images/logo.svg" />
     <br>
     A clone Instagram feed.<br />
@@ -98,6 +96,12 @@ $ react-native run-ios
 # Use the command below for Android devices
 $ react-native run-android
 ```
+## :camera: Screen prints
+
+<h2 align="center">
+    <img alt="Instagram Mobile" src="layoutMobile.PNG" />
+    <img alt="Instagram Web" src="layoutWeb.PNG" />
+</h2>
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
