@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Instagram Clone" src="frontend/src/assets/images/logo.svg" />
+    <img alt="Instagram" src="frontend/src/assets/images/logo.svg" />
     <br>
     A clone Instagram feed.<br />
     Node.js | ReactJS | React Native
@@ -10,6 +10,9 @@
   <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>
 </p>
+
+<img alt="Instagram Mobile" src="layoutMobile.PNG" />
+<img alt="Instagram Web" src="layoutWeb.PNG"/>
 
 ## :rocket: Technologies
 
@@ -24,7 +27,6 @@ This project was developed at the [RocketSeat OmniStack Week 7](https://rocketse
 -  [Socket.io](https://socket.io/)
 -  [ReactJS](https://reactjs.org/)
 -  [React Router v4](https://github.com/ReactTraining/react-router)
--  [styled-components](https://www.styled-components.com/)
 -  [axios](https://github.com/axios/axios)
 -  [React Native](http://facebook.github.io/react-native/)
 -  [React Navigation](https://reactnavigation.org/)
